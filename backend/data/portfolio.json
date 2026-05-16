@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "name": "Tele Nandini",
+    "role": "B.Tech Computer Science Engineering Student",
+    "tagline": "Aspiring Software Engineer",
+    "initials": "TN",
+    "profile_image": "/profile-photo.png",
+    "profile_alt": "Tele Nandini — professional portrait",
+    "profile_hint": ""
+  },
+  "about": {
+    "summary": "Motivated Computer Science undergraduate with a strong interest in software development, Python programming, and full stack web technologies. Hands-on experience through academic projects and hackathons, with a focus on building practical solutions using problem-solving skills. Actively seeking entry-level or internship opportunities to grow as a software engineer.\n\nAdditional Information:\n• Strong interest in software development and applied machine learning.\n• Actively learning Python libraries and modern web technologies."
+  },
+  "education": [
+    {
+      "title": "Bachelor of Technology (B.Tech) – Computer Science Engineering",
+      "place": "NRI College, Agiripalli, Andhra Pradesh",
+      "tag": ""
+    },
+    {
+      "title": "Intermediate (12th Standard)",
+      "place": "Vikas Junior College, Visannapete, Andhra Pradesh",
+      "tag": ""
+    },
+    {
+      "title": "Secondary School (10th Standard)",
+      "place": "Vikas Public School, Chatrai, Andhra Pradesh",
+      "tag": ""
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "items": ["Python", "JavaScript"],
+      "accent": "from-sky-500/20 to-transparent"
+    },
+    {
+      "title": "Web Technologies",
+      "items": ["HTML", "CSS"],
+      "accent": "from-violet-500/20 to-transparent"
+    },
+    {
+      "title": "Core Concepts",
+      "items": [
+        "Full Stack Development Basics",
+        "Computer Vision Basics",
+        "Problem Solving"
+      ],
+      "accent": "from-cyan-500/15 to-transparent"
+    },
+    {
+      "title": "Tools & Libraries",
+      "items": ["Git", "GitHub", "VS Code", "OpenCV (basic)"],
+      "accent": "from-fuchsia-500/15 to-transparent"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Driver Drowsiness Detection System (Python)",
+      "description": "Developed a computer vision–based system to detect driver drowsiness using facial landmarks. Used Python and OpenCV to analyze eye blinking patterns and alert the driver in real time. Improved understanding of real-time image processing and machine learning fundamentals.",
+      "tags": ["Python", "OpenCV", "Computer Vision"],
+      "icon": "camera"
+    },
+    {
+      "title": "Full Stack Web Application (Hackathon Project)",
+      "description": "Designed and developed a responsive web application using HTML, CSS, and JavaScript. Implemented client-side validation and dynamic UI components to improve usability. Collaborated with team members to deliver the solution within strict timelines.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "icon": "globe"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Cyber Security",
+      "issuer": "NPTEL",
+      "date": "",
+      "url": "",
+      "description": "NPTEL Certification in Cyber security"
+    },
+    {
+      "title": "Hackathon Participation",
+      "issuer": "Various",
+      "date": "",
+      "url": "",
+      "description": "Participation in full stack Hackathons"
+    }
+  ],
+  "internships": [],
+  "achievements": [],
+  "contact": {
+    "phone": "+919398887678",
+    "phone_e164": "+919398887678",
+    "email": "nandinitele44@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nandini-tele-1028b931b",
+    "linkedin_label": "linkedin.com/in/nandini-tele",
+    "github": ""
+  },
+  "resume_lines": [
+    "Tele Nandini",
+    "B.Tech Computer Science Engineering Student",
+    "",
+    "Contact",
+    "Phone: +91 9398887678",
+    "Email: nandinitele44@gmail.com",
+    "LinkedIn: https://www.linkedin.com/in/nandini-tele-1028b931b",
+    "",
+    "Professional Summary",
+    "Motivated Computer Science undergraduate with a strong interest in software development, Python programming, and full stack web technologies."
+  ],
+  "meta": {
+    "site_title": "Tele Nandini | Portfolio",
+    "footer_tagline": "B.Tech CSE student building thoughtful software.",
+    "linkedin_profile_hint": ""
+  }
+}
