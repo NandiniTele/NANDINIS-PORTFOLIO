@@ -1,153 +1,113 @@
 {
   "hero": {
-    "name": "Mekala Rama Venkata Charan",
+    "name": "Tele Nandini",
     "role": "B.Tech Computer Science Engineering Student",
-    "tagline": "Aspiring Software Engineer | Artificial Intelligence Enthusiast",
-    "initials": "RC",
-    "profile_image": "/rama-photo.jpg",
-    "profile_alt": "Mekala Rama Venkata Charan — professional portrait",
+    "tagline": "Aspiring Software Engineer",
+    "initials": "TN",
+    "profile_image": "/profile-photo.png",
+    "profile_alt": "Tele Nandini — professional portrait",
     "profile_hint": ""
   },
   "about": {
-    "summary": "Skilled multitasker with a superior work ethic and good teamwork, problem-solving, and organizational skills. Willing to take on any task to help the team. Reliable and dedicated team player with a hardworking and resourceful approach."
+    "summary": "Motivated Computer Science undergraduate with a strong interest in software development, Python programming, and full stack web technologies. Hands-on experience through academic projects and hackathons, with a focus on building practical solutions using problem-solving skills. Actively seeking entry-level or internship opportunities to grow as a software engineer.\n\nAdditional Information:\n• Strong interest in software development and applied machine learning.\n• Actively learning Python libraries and modern web technologies."
   },
   "education": [
     {
-      "title": "Bachelor of Technology in Computer Science and Engineering",
-      "place": "NRI Institute of Technology, Andhra Pradesh",
-      "tag": "CGPA 8.0 | August 2023 to present"
+      "title": "Bachelor of Technology (B.Tech) – Computer Science Engineering",
+      "place": "NRI College, Agiripalli, Andhra Pradesh",
+      "tag": ""
     },
     {
-      "title": "Board of Intermediate (MPC)",
-      "place": "Sri Chaitanya Junior Kalasala Vijayawada, Andhra Pradesh",
-      "tag": "60% | June 2021 to April 2023"
+      "title": "Intermediate (12th Standard)",
+      "place": "Vikas Junior College, Visannapete, Andhra Pradesh",
+      "tag": ""
     },
     {
-      "title": "Board of Secondary School",
-      "place": "Kumar Public School, Nuzvid, Andhra Pradesh",
-      "tag": "CGPA 93% | June 2014 to May 2021"
+      "title": "Secondary School (10th Standard)",
+      "place": "Vikas Public School, Chatrai, Andhra Pradesh",
+      "tag": ""
     }
   ],
   "skills": [
     {
       "title": "Programming",
-      "items": ["Python", "C", "Java"],
+      "items": ["Python", "JavaScript"],
       "accent": "from-sky-500/20 to-transparent"
     },
     {
-      "title": "Frontend & Frameworks",
-      "items": ["HTML", "CSS", "JavaScript", "React", "Angular"],
+      "title": "Web Technologies",
+      "items": ["HTML", "CSS"],
       "accent": "from-violet-500/20 to-transparent"
-    },
-    {
-      "title": "Databases & Tools",
-      "items": ["MySQL", "MongoDB", "Excel", "API Integration", "AI Tools"],
-      "accent": "from-cyan-500/15 to-transparent"
     },
     {
       "title": "Core Concepts",
       "items": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Prompt Engineering",
-        "Windows OS"
+        "Full Stack Development Basics",
+        "Computer Vision Basics",
+        "Problem Solving"
       ],
+      "accent": "from-cyan-500/15 to-transparent"
+    },
+    {
+      "title": "Tools & Libraries",
+      "items": ["Git", "GitHub", "VS Code", "OpenCV (basic)"],
       "accent": "from-fuchsia-500/15 to-transparent"
     }
   ],
   "projects": [
     {
-      "title": "Pharmacy Billing & Inventory System",
-      "description": "Full-stack web application designed for real-time pharmacy operations. Supports batch-wise inventory tracking, GST-compliant billing, and thermal invoice generation. Includes fuzzy medicine search, stock validation, expiry checks, and role-based access control.",
-      "tags": ["FastAPI", "React", "SQLite"],
-      "icon": "database"
+      "title": "Driver Drowsiness Detection System (Python)",
+      "description": "Developed a computer vision–based system to detect driver drowsiness using facial landmarks. Used Python and OpenCV to analyze eye blinking patterns and alert the driver in real time. Improved understanding of real-time image processing and machine learning fundamentals.",
+      "tags": ["Python", "OpenCV", "Computer Vision"],
+      "icon": "camera"
     },
     {
-      "title": "Healthcare Data System",
-      "description": "Manages patient records and billing, optimizing data for quick access and analysis. Ensures data integrity, secure access, and streamlines healthcare operations.",
-      "tags": ["SQL"],
-      "icon": "folder"
-    },
-    {
-      "title": "Text to Image Generator",
-      "description": "Creates a text-to-image generator using machine learning models to convert textual descriptions into corresponding visuals.",
-      "tags": ["Machine Learning"],
-      "icon": "image"
-    },
-    {
-      "title": "Automated Email Sender",
-      "description": "Python tool that automates sending personalized or bulk emails using smtplib and email. Supports attachments, customizable messages, and CSV integration for recipient data.",
-      "tags": ["Python"],
-      "icon": "mail"
+      "title": "Full Stack Web Application (Hackathon Project)",
+      "description": "Designed and developed a responsive web application using HTML, CSS, and JavaScript. Implemented client-side validation and dynamic UI components to improve usability. Collaborated with team members to deliver the solution within strict timelines.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "icon": "globe"
     }
   ],
   "certifications": [
     {
-      "title": "Internet of Things",
+      "title": "Cyber Security",
       "issuer": "NPTEL",
       "date": "",
       "url": "",
-      "description": "Earned certification on “internet of things”"
+      "description": "NPTEL Certification in Cyber security"
     },
     {
-      "title": "Artificial Intelligence",
-      "issuer": "Simplilearn",
+      "title": "Hackathon Participation",
+      "issuer": "Various",
       "date": "",
       "url": "",
-      "description": "Earned certification on “Artificial Intelligence”"
-    },
-    {
-      "title": "Cloud Computing",
-      "issuer": "NPTEL",
-      "date": "",
-      "url": "",
-      "description": "Earned certification on “Cloud Computing”"
-    },
-    {
-      "title": "AICTE Internship",
-      "issuer": "Techsaksham",
-      "date": "",
-      "url": "",
-      "description": "Earned certification on “AICTEinternship”"
+      "description": "Participation in full stack Hackathons"
     }
   ],
-  "internships": [
-    {
-      "title": "Artificial Intelligence Intern",
-      "organization": "Skill Vertex",
-      "period": "Nov 2024 - Jan 2025",
-      "description": "Worked on real-world AI projects involving data preprocessing, machine learning models, and NLP systems. Utilized tools like Python, TensorFlow, and Scikit-learn to build and optimize solutions. Conducted data analysis and collaborated with a team to develop and deploy AI models. Presented project outcomes and insights to mentors, showcasing active implementation strategies.",
-      "skills": ["Python", "TensorFlow", "Scikit-learn", "Machine Learning", "NLP"]
-    }
-  ],
+  "internships": [],
   "achievements": [],
   "contact": {
-    "phone": "+919493972442",
-    "phone_e164": "+919493972442",
-    "email": "ramavenkatacharan@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/rama-venkata-charan-ba0a592b9",
-    "linkedin_label": "linkedin.com/in/rama-venkata-charan-ba0a592b9",
-    "github": "https://github.com/RamaVenkataCharan"
+    "phone": "+919398887678",
+    "phone_e164": "+919398887678",
+    "email": "nandinitele44@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nandini-tele-1028b931b",
+    "linkedin_label": "linkedin.com/in/nandini-tele",
+    "github": ""
   },
   "resume_lines": [
-    "Mekala Rama Venkata Charan",
+    "Tele Nandini",
     "B.Tech Computer Science Engineering Student",
     "",
     "Contact",
-    "Phone: +91 9493972442",
-    "Email: ramavenkatacharan@gmail.com",
-    "LinkedIn: https://www.linkedin.com/in/rama-venkata-charan-ba0a592b9",
-    "GitHub: https://github.com/RamaVenkataCharan",
+    "Phone: +91 9398887678",
+    "Email: nandinitele44@gmail.com",
+    "LinkedIn: https://www.linkedin.com/in/nandini-tele-1028b931b",
     "",
     "Professional Summary",
-    "Skilled multitasker with a superior work ethic and good teamwork, problem-solving, and organizational skills. Willing to take on any task to help the team. Reliable and dedicated team player with a hardworking and resourceful approach.",
-    "",
-    "Experience",
-    "Intern | Skill Vertex | Artificial Intelligence Remote (Nov 2024 - Jan 2025)",
-    "Worked on real-world AI projects involving data preprocessing, machine learning models, and NLP systems. Utilized tools like Python, TensorFlow, and Scikit-learn to build and optimize solutions."
+    "Motivated Computer Science undergraduate with a strong interest in software development, Python programming, and full stack web technologies."
   ],
   "meta": {
-    "site_title": "Mekala Rama Venkata Charan | Portfolio",
+    "site_title": "Tele Nandini | Portfolio",
     "footer_tagline": "B.Tech CSE student building thoughtful software.",
     "linkedin_profile_hint": ""
   }

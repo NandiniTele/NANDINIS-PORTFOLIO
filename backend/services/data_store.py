@@ -29,10 +29,13 @@ def reload_portfolio() -> Dict[str, Any]:
 
 
 def append_contact_message(payload: dict) -> None:
-    _MESSAGES_PATH.parent.mkdir(parents=True, exist_ok=True)
-    line = json.dumps(
-        {'received_at': datetime.now(timezone.utc).isoformat(), **payload},
-        ensure_ascii=False,
-    )
-    with open(_MESSAGES_PATH, 'a', encoding='utf-8') as f:
-        f.write(line + '\n')
+    try:
+        _MESSAGES_PATH.parent.mkdir(parents=True, exist_ok=True)
+        line = json.dumps(
+            {'received_at': datetime.now(timezone.utc).isoformat(), **payload},
+            ensure_ascii=False,
+        )
+        with open(_MESSAGES_PATH, 'a', encoding='utf-8') as f:
+            f.write(line + '\n')
+    except OSError:
+        print("Contact message received (not saved due to read-only FS):", payload)
